@@ -1,0 +1,27 @@
+﻿  class_template.cpp
+  dynamic_memory.cpp
+  dynamic_memory_for_arrays.cpp
+  exception_handling.cpp
+E:\projects\c-cpp\Visual_CPP\CPP_Advanced\exception_handling.cpp(101,28): warning C4101: 'e': unreferenced local variable
+  files_and_streams.cpp
+  function_template.cpp
+  iterator.cpp
+  list_container.cpp
+  map_container.cpp
+  namespaces.cpp
+  pair_template.cpp
+  tuple_template.cpp
+  vector_container.cpp
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+class_template.obj : error LNK2005: main already defined in class_template.obj
+E:\projects\c-cpp\Visual_CPP\x64\Release\CPP_Advanced.exe : fatal error LNK1169: one or more multiply defined symbols found
